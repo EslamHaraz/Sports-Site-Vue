@@ -253,8 +253,6 @@ export default {
               this.successActive = false;
             }
           );
-      } else {
-        console.log("Not Valid");
       }
     },
   },
