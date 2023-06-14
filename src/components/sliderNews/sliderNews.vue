@@ -25,45 +25,6 @@ export default {
   name: "sliderNews",
   data() {
     return {
-      //data list [array]
-      imgs: [
-        {
-          src: require("./img/img1.jpg"),
-
-          content:
-            "اكتسح التصويت.. محمد عبد المنعم الأفضل في ذهاب ربع نهائي دوري الأبطال",
-        },
-        {
-          src: require("./img/img1.jpg"),
-
-          content:
-            "مصدر ليلا كورة: الإصابة تُبعد رأفت خليل عن قائمة الأهلي لمواجهة الرجاء بالأبطال",
-        },
-        {
-          src: require("./img/img1.jpg"),
-
-          content:
-            ".. مصدر يكشف ليلا كورة سبب غياب معلول عن مران الأهلي قبل السفر للمغرب",
-        },
-        {
-          src: require("./img/img1.jpg"),
-
-          content:
-            ".. مصدر يكشف ليلا كورة سبب غياب معلول عن مران الأهلي قبل السفر للمغرب",
-        },
-        {
-          src: require("./img/img1.jpg"),
-
-          content:
-            ".. مصدر يكشف ليلا كورة سبب غياب معلول عن مران الأهلي قبل السفر للمغرب",
-        },
-        {
-          src: require("./img/img1.jpg"),
-
-          content:
-            ".. مصدر يكشف ليلا كورة سبب غياب معلول عن مران الأهلي قبل السفر للمغرب",
-        },
-      ],
       postesList: [],
       //Slider configuration [obj]
       options: {
