@@ -141,7 +141,6 @@ export default {
             if (response.data.length < 1) {
               this.successActive = false;
               this.errorActive = true;
-              console.log(response.data);
               let result = axios
                 .put(`http://localhost:3000/tags/${this.tagId}`, {
                   tagName: this.name,
@@ -160,7 +159,7 @@ export default {
               this.errorActive = true;
             }
           });
-      } else console.log("Noy Valdi");
+      } 
     },
   },
 };
