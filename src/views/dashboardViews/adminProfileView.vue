@@ -157,7 +157,6 @@ export default {
       this.email = JSON.parse(adminInfo).adminEmail;
       this.adminPhoto = JSON.parse(adminInfo).adminPhoto;
       this.powers = JSON.parse(adminInfo).supervisorStatus;
-      console.log(this.powers);
     }
   },
   methods: {
