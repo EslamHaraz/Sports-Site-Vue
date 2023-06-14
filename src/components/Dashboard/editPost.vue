@@ -228,7 +228,7 @@ export default {
         .then((response) => {
           this.tag = response.data.id;
           this.tagName = response.data.tagName;
-          console.log(response.data.tagName);
+
         });
     }, 100);
   },
