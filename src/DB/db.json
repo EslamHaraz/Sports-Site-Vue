@@ -1,0 +1,291 @@
+{
+  "users": [
+    {
+      "Name": "the programmer",
+      "Email": "islamharaz@yahoo.com",
+      "Password": "eslam_2020",
+      "Phone": "01274291043",
+      "status": "Good",
+      "userPhoto": "https://scontent.fcai19-3.fna.fbcdn.net/v/t39.30808-6/328938375_730051435392720_2134789307660983802_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=AOT4FuVoS2YAX8wP9_l&_nc_ht=scontent.fcai19-3.fna&oh=00_AfDBcKE09xKqTklLIHpt67P_CO5d8DIJVm9SrhifGceG2g&oe=648B568F",
+      "id": 1
+    },
+    {
+      "Name": "themaster",
+      "Email": "themaster@gmail.com",
+      "Password": "eslam_2020",
+      "Phone": "0124545457845",
+      "status": "Good",
+      "userPhoto": "https://scontent.fcai19-3.fna.fbcdn.net/v/t39.30808-6/278415266_5051139248314301_670663445006055059_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_ohc=ILAkejMwdF4AX-puBvC&_nc_ht=scontent.fcai19-3.fna&oh=00_AfC6wVM3RBJgDfigu1MXc9agBPhWn805q5iFuXqkIQc1jQ&oe=6474DEB0",
+      "id": 4
+    },
+    {
+      "Name": "mohamed haraz",
+      "Email": "mohamedharaz@yahoo.com",
+      "Password": "mohamed_2020",
+      "Phone": "01245814574",
+      "status": "Good",
+      "userPhoto": "https://i.guim.co.uk/img/media/a7fe7170defa865d2b96b829f05c5d8fa82d8edf/0_20_2201_1321/master/2201.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=410f9319cd3f76b9dccd90c5b5bbad5f",
+      "id": 5
+    }
+  ],
+  "admins": [
+    {
+      "adminName": "islamharaz15167",
+      "adminEmail": "islamharaz64@gmail.com",
+      "adminPassword": "eslam_2010",
+      "supervisorStatus": "superAdmin",
+      "adminPhoto": "https://scontent.fcai19-3.fna.fbcdn.net/v/t1.6435-9/154606001_3805507042877534_2366221628276507573_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_ohc=yZPF6YKsOlQAX-3a-lL&_nc_ht=scontent.fcai19-3.fna&oh=00_AfAsrPMcjeRg2ZRLnaBDrFNzrpqRBerno-OpF0nf5QCnKQ&oe=647F456B",
+      "id": 1
+    },
+    {
+      "adminName": "ASDSADSAD",
+      "adminEmail": "SADFSA!@GMAIL.XCSA",
+      "adminPassword": "ESLAM_2020",
+      "supervisorStatus": "Admin",
+      "adminPhoto": "https://scontent.fcai19-3.fna.fbcdn.net/v/t39.30808-6/346301498_9257231561018209_5577245025488625816_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=908EQ2p2InsAX-YsG2X&_nc_ht=scontent.fcai19-3.fna&oh=00_AfC9_Q5joT4wADLONCUHZiuXMe0HF7mUWeLmIAu_OmB0Qg&oe=6477BF67",
+      "id": 4
+    },
+    {
+      "adminName": "islamAhmedharaz",
+      "adminEmail": "islamharaz75@gmail.com",
+      "adminPassword": "eslam_2010",
+      "supervisorStatus": "Admin",
+      "adminPhoto": "https://scontent.fcai19-3.fna.fbcdn.net/v/t1.6435-9/154606001_3805507042877534_2366221628276507573_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_ohc=yZPF6YKsOlQAX-3a-lL&_nc_ht=scontent.fcai19-3.fna&oh=00_AfAsrPMcjeRg2ZRLnaBDrFNzrpqRBerno-OpF0nf5QCnKQ&oe=647F456B",
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "postAddress": " بيرناردو يتصدر قائمة أمنيات باريس سان جيرمان",
+      "content": "<h3 class=\"ql-align-right\"><strong style=\"color: rgb(230, 0, 0);\">ووفقًا لموقع “لو سبورت 10″، فإن لاعب مانشستر سيتي، الذي اكتشفه لويس كامبوس في موناكو ، حافظ على علاقات جيدة مع المدير الرياضي للنادي الفرنسي البطل الحالي، ولكن أيضًا مع كيليان مبابي زميله السابق، حيث يحاول الاثنان تسهيل وصوله إلى باريس.</strong></h3><p class=\"ql-align-center\"><br></p><h3><br></h3>",
+      "postPhoto": "https://sc4.hihi2.com/wp-content/uploads/2023/05/hihi2-2023-05-08_18-33-02_848329.jpg",
+      "brief": "ويعتبر أحد أنجح الأندية الفرنسيّة وواحد من ثلاث فرق فرنسيّة فقط استطاعت الفوز بألقاب أوروبيّة، مع كُلٍ من نادي مرسيليا وأولمبيك ليون. \n",
+      "tagId": 7,
+      "commentsStatus": "enabled",
+      "appear": "public",
+      "postStatus": "to publish",
+      "sectionId": 2,
+      "id": 4
+    },
+    {
+      "postAddress": "أول تصريح من خوان كارلوس على مستوى الزمالك أمام بروكسي",
+      "content": "<h3 class=\"ql-align-right\"><strong style=\"color: rgb(230, 0, 0);\">علق الكولومبي خوان كارلوس أوسوريو المدير الفني لفريق الزمالك، على الأداء السيئ للفريق خلال مباراة الليلة أمام بروكسي في بطولة كأس مصر.</strong></h3><h3 class=\"ql-align-right\"><br></h3><h3 class=\"ql-align-right\"><strong style=\"color: rgb(230, 0, 0);\">وحقق الزمالك فوزا صعبا على فريق بروكسي 3-2 في دور الـ 32 من بطولة كأس مصر، في مباراة امتدت الى الوقت الاضافي.</strong></h3><h3 class=\"ql-align-right\"><br></h3><h3 class=\"ql-align-right\"><strong style=\"color: rgb(230, 0, 0);\">خوان كارلوس وعبر تصريحاته عقب المباراة، رفض اتهامه بالتقليل من الفريق المنافس، مؤكدا أنه سعى الى الفوز من بداية المباراة، ودرس فريق بروكسي جيدا، ومنح الفرصة للاعبين من بداية المباراة مثل سامسون ومحمود شبانة وسيد نيمار ويوسف أسامه نبيه.</strong></h3><h3><br></h3>",
+      "postPhoto": "https://www.cairo24.com/UploadCache/libfiles/100/5/600x338o/310.jpg",
+      "brief": "أول تصريح من خوان كارلوس على مستوى الزمالك أمام بروكسي .. ويكشف مصير سامسون · مذيع قناة الزمالك يُفاجئ أوسوريو بتلك الرسالة في ظل الشكل أمام بروكسي.\n",
+      "tagId": 8,
+      "commentsStatus": "enabled",
+      "appear": "public",
+      "postStatus": "to publish",
+      "sectionId": 3,
+      "id": 5
+    },
+    {
+      "postAddress": "رسميًا.. تأجيل ثلاث مباريات بـ الجولة الثامنة ",
+      "content": "<p class=\"ql-direction-rtl\"><strong>أعلن الحساب الرسمي للدوري الإنجليزي الممتاز تأجيل ثلاث مباريات، ضمن مواجهات الجولة الثامنة من عمر البطولة الإنجليزية موسم 2022-2023، بسبب وفاة الملكة إليزابيث الثانية.</strong></p><p class=\"ql-direction-rtl\"><strong>«ستستأنف مباريات الدورى الإنجليزى الممتاز في نهاية هذا الأسبوع بعد توقف مؤقت للموسم كدليل على الاحترام بعد وفاة جلالة الملكة إليزابيث الثانية».</strong></p><p class=\"ql-direction-rtl\"><strong>«ستقام سبعة من مباريات الدورى الإنجليزى العشر في نهاية هذا الأسبوع، مع تأجيل ثلاث مباريات بسبب الأحداث المحيطة بجنازة الملكة».</strong></p><p class=\"ql-direction-rtl\"><strong>«بالإضافة إلى ذلك، ستتغير أوقات الانطلاق لمباراتين في الدورى الممتاز».</strong></p><p class=\"ql-direction-rtl\"><strong>«المباريات المؤجلة يوم الأحد 18 سبتمبر هي مباريات تشيلسى ضد ليفربول في ستامفورد بريدج، ومباراة مانشستر يونايتد على أرضه ضد ليدز يونايتد».</strong></p><p class=\"ql-direction-rtl\"><strong>«مباراة برايتون ضد كريستال بالاس، التي كان من المقرر أن تقام في الساعة 15:00 بتوقيت جرينتش يوم السبت 17 سبتمبر، ستظل مؤجلة أيضًا».</strong></p><p class=\"ql-direction-rtl\"><strong>«بعد مشاورات مكثفة مع الأندية والشرطة والمجموعات الاستشارية للسلامة المحلية والسلطات الأخرى ذات الصلة، لم يكن هناك خيار آخر سوى تأجيل المباريات الثلاثة».</strong></p><p class=\"ql-direction-rtl\"><strong>«يود الدورى الإنجليزى الممتاز أن يشكر وحدة شرطة كرة القدم في المملكة المتحدة وقوات الشرطة الأخرى في جميع أنحاء البلاد، وكذلك شركاء البث لدينا، على دعمهم خلال هذه العملية، وسيواصل الاتصال بهم قبل عطلة نهاية الأسبوع».</strong></p><p class=\"ql-direction-rtl\"><strong>«بالنسبة للمباريات التي ستُلعب خلال فترة الحداد الوطنى، سيتم تكريم الملكة في ملاعب الدورى الإنجليزى الممتاز».</strong></p><h1 class=\"ql-direction-rtl\"> </h1>",
+      "postPhoto": "https://mediaaws.almasryalyoum.com/news/large/2020/04/27/1235891_0.png",
+      "brief": "أعلن الحساب الرسمي للدوري الإنجليزي الممتاز\n",
+      "tagId": 9,
+      "commentsStatus": "enabled",
+      "appear": "public",
+      "postStatus": "to publish",
+      "sectionId": 4,
+      "id": 6
+    },
+    {
+      "postAddress": "كولر المدير الفني للفريق الأول لكرة القدم بالنادي الأهلي",
+      "content": "<h3 class=\"ql-align-right\"><strong style=\"color: rgb(230, 0, 0); background-color: rgb(204, 224, 245);\">كولر المدير الفني للفريق الأول لكرة القدم بالنادي الأهلي، عقب فوز فريقه على طلائع الجيش بهدفين دون رد في مباراة مؤجلة من الجولة ٢٢ لمسابقة الدوري الممتاز.</strong></h3><h3 class=\"ql-align-right\"><strong style=\"color: rgb(230, 0, 0); background-color: rgb(204, 224, 245);\">&nbsp;</strong></h3><h3 class=\"ql-align-right\"><strong style=\"color: rgb(230, 0, 0); background-color: rgb(204, 224, 245);\">وقال كولر في المؤتمر الصحفي بعد المباراة:”كنا نعلم أن المباراة ستكون صعبة أمام طلائع الجيش، وأخذنا بعض الوقت للدخول في اللقاء ثم التحسن”.</strong></h3><h3 class=\"ql-align-right\"><strong style=\"color: rgb(230, 0, 0); background-color: rgb(204, 224, 245);\">وأضاف:”بداية الشوط الثاني كانت جيدة بالنسبة لنا بعدما سجلنا الهدف الأول عن طريق محمد أفشة”.</strong></h3><h3 class=\"ql-align-right\"><strong style=\"color: rgb(230, 0, 0); background-color: rgb(204, 224, 245);\">وتابع:”سعيد للغاية بالفوز في مباراة اليوم، على الرغم من الغيابات الكثيرة في الفريق الحاصلين على راحة”.</strong></h3><h3><br></h3>",
+      "postPhoto": "https://elahlyelyom.net/wp-content/uploads/2023/04/%D9%83%D9%88%D9%84%D8%B1%D8%AC%D8%AF%D9%8A%D8%AF.jpg",
+      "brief": "كولر المدير الفني للفريق الأول لكرة القدم بالنادي الأهلي، عقب فوز فريقه على طلائع الجي.\n",
+      "tagId": 6,
+      "commentsStatus": "enabled",
+      "appear": "public",
+      "postStatus": "to publish",
+      "sectionId": 3,
+      "id": 7
+    },
+    {
+      "postAddress": "برصيد سالب 8 نقاط.. عقوبة على ناد إنجليزي لعدم دفع الرواتب",
+      "content": "<h3 class=\"ql-align-right\"><strong style=\"color: rgb(230, 0, 0);\">قالت رابطة الدوري الإنجليزي لكرة القدم إنه تمت معاقبة ويغان أثليتيك بخصم جديد لأربع نقاط وسيبدأ الموسم القادم من دوري الدرجة الثالثة برصيد سالب ثماني نقاط بعد أن عجز النادي عن إيداع أموال لتغطية فاتورة الرواتب.</strong></h3><h3 class=\"ql-align-right\"><br></h3><h3 class=\"ql-align-right\"><strong style=\"color: rgb(230, 0, 0);\">وحصل ويغان على خصم مبدئي بواقع أربع نقاط يوم الجمعة الماضي بعد أن فشل النادي في&nbsp;</strong><a href=\"https://www.skynewsarabia.com/keyword-search?keyword=%D8%AF%D9%81%D8%B9+%D8%B1%D9%88%D8%A7%D8%AA%D8%A8+%D8%A7%D9%84%D9%84%D8%A7%D8%B9%D8%A8%D9%8A%D9%86&amp;contentId=1624427\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(230, 0, 0);\"><strong>دفع رواتب اللاعبين</strong></a><strong style=\"color: rgb(230, 0, 0);\">&nbsp;هذا الشهر.</strong></h3><h3 class=\"ql-align-right\"><strong style=\"color: rgb(230, 0, 0);\">وخصمت&nbsp;</strong><a href=\"https://www.skynewsarabia.com/keyword-search?keyword=%D8%B1%D8%A7%D8%A8%D8%B7%D8%A9+%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A&amp;contentId=1624427\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(230, 0, 0);\"><strong>رابطة الدوري</strong></a><strong style=\"color: rgb(230, 0, 0);\">&nbsp;ثلاث نقاط من ويغان، الذي هبط من دوري الدرجة الثانية، في مارس لفشله في دفع الرواتب وتم اتهامه هذا الموسم بسبب التأخر في مدفوعاته في يونيو ويوليو وأكتوبر الماضي.</strong></h3><h3><br></h3>",
+      "postPhoto": "https://images.skynewsarabia.com/images/v1/2023/05/27/1624426/1200/675/1-1624426.PNG",
+      "brief": "قالت رابطة الدوري الإنجليزي لكرة القدم إنه تمت معاقبة ويغان أثليتيك بخصم جديد لأربع نقاط",
+      "tagId": 11,
+      "commentsStatus": "enabled",
+      "appear": "public",
+      "postStatus": "to publish",
+      "sectionId": 5,
+      "id": 8
+    }
+  ],
+  "tags": [
+    {
+      "tagName": "ريال مدريد",
+      "spectrumName": "ريال مدريد",
+      "breif": "ريال نشأ عام 1907",
+      "tagPhoto": "https://files1.elsport.com/imagine/pictures_730_400/4061015_1417248774.jpg",
+      "id": 5
+    },
+    {
+      "tagName": "الاهلي",
+      "spectrumName": "الاهلي",
+      "breif": "الاهلي نشأ  عام 1904",
+      "tagPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI3izmqHqkmekdgsDOD_PL_ckkra3qjbeuW0BXIkghZmWzfVVxMCTh3UYOrv5zN9ygWRI&usqp=CAU",
+      "id": 6
+    },
+    {
+      "tagName": "باريس سان جيرمان   ",
+      "spectrumName": "باريس سان جيرمان",
+      "breif": "باريس بالكاد فهو نادي اسطوري",
+      "tagPhoto": "https://img.btolat.com/2022/7/16/news/288897/large.jpg",
+      "id": 7
+    },
+    {
+      "tagName": "الزمالك",
+      "spectrumName": "الزمالك",
+      "breif": "نادي الزمالك نشأ عام 1901",
+      "tagPhoto": "https://media.filgoal.com/news/verylarge/215584_0.jpg",
+      "id": 8
+    },
+    {
+      "tagName": "مانشتستر سيتي",
+      "spectrumName": "مانشتستر سيتي",
+      "breif": "مانشستر سيتي افضل نوادي انجلترا",
+      "tagPhoto": "https://img.youm7.com/large/202104270617481748.jpg",
+      "id": 9
+    },
+    {
+      "tagName": "اتليتكو مدريد",
+      "spectrumName": "اتليتكو مدريد",
+      "breif": "اتليتكو مدريد فريق منافس جدا",
+      "tagPhoto": "https://24.ae/images/Articles2/20191231166112708H.jpg",
+      "id": 10
+    },
+    {
+      "tagName": "مانشستر يونايتد ",
+      "spectrumName": "مانشستر يونايتد",
+      "breif": "مانشستر يونايتد نادي غير سهل ",
+      "tagPhoto": "https://img.youm7.com/xlarge/201801121214501450.jpg",
+      "id": 11
+    }
+  ],
+  "sections": [
+    {
+      "sectionName": "الكره العالميه",
+      "spectrumName": "الكره العالميه",
+      "breif": "هذا القسم يخص كل ما يشمل الكره العالميه",
+      "sectionPhoto": "https://images.skynewsarabia.com/images/v1/2017/04/25/943364/1200/630/1-943364.jpg",
+      "id": 2
+    },
+    {
+      "sectionName": "الكره المحليه",
+      "spectrumName": "الكره المحليه",
+      "breif": "هذا القسم يخص كل ما يشمل الكره المحليه",
+      "sectionPhoto": "https://read.opensooq.com/wp-content/uploads/2020/01/%D8%A3%D8%B4%D9%87%D8%B1-%D8%A7%D9%84%D8%A3%D9%86%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9.jpg",
+      "id": 3
+    },
+    {
+      "sectionName": "الكره الانجليزيه",
+      "spectrumName": "الكره الانجليزيه",
+      "breif": "هذا القسم يشمل اخبار الدوي الانجليزي",
+      "sectionPhoto": "https://mediaaws.almasryalyoum.com/news/large/2019/08/11/961767_0.png",
+      "id": 4
+    },
+    {
+      "sectionName": "الكره الاوربيه",
+      "spectrumName": "الكره الاوربيه",
+      "breif": "هذا القسم خاص بالكره الاوربيه",
+      "sectionPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMex_4Hh4qRiJmnqTwiJp0FhwljWaYzcCEQ&usqp=CAU",
+      "id": 5
+    }
+  ],
+  "messages": [
+    {
+      "Name": "Eslam Haraz",
+      "Email": "islamharaz@yahoo.com",
+      "massageAddress": "الاخبار الذي ينشرها الموقع",
+      "messageContent": "يوجد خلل في مصداقيه البيانات ويرجي متابعه الاخبار الصحيحه ",
+      "id": 1
+    },
+    {
+      "Name": "ahmed ali",
+      "Email": "ahmedalu@gmail.com",
+      "massageAddress": "المميزات الذي يقدمها الموقع ",
+      "messageContent": "الموقع لا يتوفر به الكثير من المميزات التي تتمتع بها باقي المواقع مثل البث الحي مثلا",
+      "id": 2
+    },
+    {
+      "Name": "ziad Elbadry",
+      "Email": "ziadelbadry@gmail.com",
+      "massageAddress": "كره القدم الانمي",
+      "messageContent": "انتم لاتقدمون كره القدم الانمي بماذا ؟",
+      "id": 3
+    },
+    {
+      "Name": "asdsadas",
+      "Email": "sadsads@asdasd.com",
+      "massageAddress": "asdsadasasdasd",
+      "messageContent": "dsfsdfsdfdsafdasdasdas",
+      "id": 4
+    },
+    {
+      "Name": "asdsadas",
+      "Email": "asdsadsad@gmailk.asdasda",
+      "massageAddress": "asdsadsadsad",
+      "messageContent": "asdsadsadasdasdas",
+      "id": 5
+    },
+    {
+      "Name": "lkashdkjsahdkjsahkj",
+      "Email": "asdsada@gamil.comn",
+      "massageAddress": "sdafjaskldjaslkjdlkas",
+      "messageContent": "asfdsafdsalkkdjsalkdjlkasjdkasjdlkasdada",
+      "id": 6
+    }
+  ],
+  "pages": [
+    {
+      "pageName": "من نحن",
+      "link": "whoweAre",
+      "content": "<p>نحن موقع نقدم اخبار كره القدم حصريا ومباشر علي مدار 24 ساعه حيث ان اخبارنا موثوق منها ومن مصادر موثوق بها موقعنا يقدم الاخبار العالميه والمحليه بل ايضا بمكنك متابعه النتائج واخبار الفرق واللاعبيين كما اننا نحترم اراء العملاء</p>",
+      "id": 1
+    },
+    {
+      "pageName": " سياسه الخصوصيه",
+      "link": "privacy",
+      "content": "عزيزي المستخدم.. سياسة الخصوصية لموقع كورة بلس- Extra Time'، متغيرة ويمكن تطبيق أى تغيرات عليها فى أى وقت، لذا يجب عليك مراجعة هذه الصفحة بشكل دوري للتعرف على مستجدات الخصوصية. موقع كورة بلس- Extra Time لا يستخدم البيانات الشخصية للمستخدم، ولا يضيف ملفات تعريف، وبالتالي لا يمكن اختراق هاتفك أو جهازك الخاص . البيانات التي يحصل عليها الموقع بمحض إرادتك هي البريد الإلكتروني والأسم، والتليفون للاستفادة من الخدمات المتوفرة في موقع كورة بلس- Extra Tim ، مثل إضافة التعليقات والنقاشات ومتابعة بعض الخدمات المتاحة للمشتركين على الموقع. إذا كانت لديك استفسارات عن سياسة الخصوصية، لا تتردد في الاتصال بنا عن طريق البريد",
+      "id": 2
+    }
+  ],
+  "settingPage": [
+    {
+      "siteName": "يلا كوره",
+      "siteIcon": "https://img.freepik.com/premium-vector/detailed-sports-center-esport-sport-logo-template_173356-99.jpg",
+      "siteLogo": "https://img.freepik.com/premium-vector/detailed-sports-center-esport-sport-logo-template_173356-99.jpg",
+      "siteDescription": "هذا الموقع هو موقع اخباري عن كره القدم ويقدم افضل المميزاات بالاذافه الي لوحه التحكم الكامله يمكن من خلالها عمل اي شئ مثل اضافه حظر المستخدمين واضافه مشرفين",
+      "siteStatus": "open",
+      "altText": "هذا الموقع هو موقع اخباري عن كره القدم ويقدم افضل المميزاات بالاذافه الي لوحه التحكم الكامله يمكن من خلالها عمل اي شئ مثل اضافه حظر المستخدمين واضافه مشرفين",
+      "id": 1
+    }
+  ],
+  "reports": [
+    {
+      "resultScan": "تم حذف التعليق بمزاجي",
+      "reporterId": 1,
+      "userId": 4,
+      "action": "delete",
+      "status": "complete",
+      "id": 4
+    },
+    {
+      "report": "التعليفق غير مفهوم",
+      "user": "the programmer",
+      "reporterId": 1,
+      "userId": 4,
+      "comment": "skjdfhkjsddfsdf",
+      "commentId": 1,
+      "status": "Pending",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "replytoUsers": []
+}
