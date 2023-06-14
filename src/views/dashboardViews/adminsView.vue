@@ -190,8 +190,6 @@ export default {
     getData(adminId, index) {
       this.adminId = adminId;
       this.adminIndex = index;
-      console.log(this.adminId);
-      console.log(this.adminIndex);
     },
     onChangePage(pageOfItems) {
       // update page of items
