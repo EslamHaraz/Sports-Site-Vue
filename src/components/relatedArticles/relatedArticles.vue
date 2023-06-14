@@ -33,7 +33,6 @@ export default {
         this.atricles = response.data;
         this.atricles = this.atricles.reverse();
         this.atricles = this.atricles.slice(0, 6);
-        console.log(this.atricles);
       });
   },
 };
