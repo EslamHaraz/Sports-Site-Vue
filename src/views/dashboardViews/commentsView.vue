@@ -134,7 +134,6 @@ export default {
       .get(`http://localhost:3000/comments`)
       .then((response) => {
         this.commenstList = response.data;
-        console.log(this.commenstList);
       });
   },
   computed: {
