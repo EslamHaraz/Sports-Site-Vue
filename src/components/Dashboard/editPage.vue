@@ -89,7 +89,6 @@ export default {
         this.pageName = response.data.pageName;
         this.linkPage = response.data.link;
       });
-    console.log(this.content);
   },
   validations() {
     return {
