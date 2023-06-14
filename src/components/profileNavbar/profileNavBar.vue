@@ -131,14 +131,12 @@ export default {
           this.userImage = response.data.userPhoto;
           this.userImage = response.data.userPhoto;
           this.status = response.data.status;
-          console.log(this.userId);
         })
         .then((response) => {
           let result = axios
             .get(`http://localhost:3000/replytoUsers?userI=${this.userId}`)
             .then((response) => {
               this.replaysList = response.data;
-              console.log(this.replaysList);
             })
             .then((response) => {
               let result = axios
@@ -158,9 +156,6 @@ export default {
     removeNotifications() {
       let result = axios
         .delete(`http://localhost:3000/reports?userId=${this.userId}`)
-        .then((response) => {
-          console.log(response);
-        });
     },
   },
 };
