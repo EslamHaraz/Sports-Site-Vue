@@ -80,7 +80,6 @@ export default {
       .get(`http://localhost:3000/posts?sectionId=${this.sectionId}`)
       .then((response) => {
         this.postes = response.data;
-        console.log(this.postes);
       });
   },
   methods: {
