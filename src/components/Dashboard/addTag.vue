@@ -145,8 +145,6 @@ export default {
                 });
             }
           });
-      } else {
-        console.log("Not Valid");
       }
     },
   },
