@@ -199,7 +199,6 @@ export default {
         this.commentsStatus = response.data.commentsStatus;
         this.postStatus = response.data.postStatus;
         this.tagId = response.data.tagId;
-        console.log(this.content)
       })
       .then((reponse) => {
         let result = axios
