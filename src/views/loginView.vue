@@ -105,7 +105,7 @@ export default {
                 ))
               : ((this.successActive = false), (this.errorActive = true));
           });
-      } else console.log("Not Valid");
+      } 
     },
   },
 };
