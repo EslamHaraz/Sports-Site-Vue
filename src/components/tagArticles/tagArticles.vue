@@ -66,7 +66,6 @@ export default {
       .get(`http://localhost:3000/posts?tagId=${this.sectionId}`)
       .then((response) => {
         this.postes = response.data;
-        console.log(this.postes);
       });
   },
 };
